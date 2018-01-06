@@ -1,0 +1,2 @@
+#Not to track .pyc files
+*.pyc
